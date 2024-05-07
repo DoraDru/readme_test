@@ -10,7 +10,7 @@ lorem ipsum
 * <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" height="25" /> JavaScript </a>
 * <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" height="25" /> Java </a>
 * <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/spring.svg" height="25" /> Spring Boot </a>
-* <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql-logo.svg" height="25" /> PostgreSQL </a>
+* <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" height="25" /> PostgreSQL </a>
 
 
 
